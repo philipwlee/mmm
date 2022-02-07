@@ -1,0 +1,6 @@
+.*
+*.pkl
+*kaijun*
+*.csv
+!/.gitignore
+
